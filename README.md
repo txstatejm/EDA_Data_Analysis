@@ -1,7 +1,7 @@
 # Exploratory Data Analysis: Is Data Analysis Still a Worthwhile Profession?
 
 ## 📌 Project Overview
-This project explores job postings for data analyst roles to assess whether data analysis remains a viable career path. Using Pandas, Matplotlib, and Seaborn, I analyze hiring trends, company demand, geographic distribution, and soft skills required.
+This project explores job postings for data analyst roles to assess whether data analysis remains a viable career path.
 
 ## 🔍 Key Questions
 1. **Which locations offer the most job opportunities?**
@@ -9,7 +9,7 @@ This project explores job postings for data analyst roles to assess whether data
 3. **What soft skills are commonly listed in job descriptions?**
 
 ## 📊 Data & Methodology
-- **Dataset:** A collection of job postings from LinkedIn, including details on company, location, description, and posting date.
+- **Dataset:** A collection of job postings from LinkedIn, including details on company, location, description, and posting date, downloaded from Kaggle.
 - **Tools Used:** 
   - Python (`pandas`, `matplotlib`, `seaborn`)
   - Jupyter Notebook
