@@ -15,14 +15,9 @@
   - Jupyter Notebook
 
 ## 📈 Key Findings
-- **Location Insights:** The highest concentration of job postings is in New York, California, and Washington.
-- **Hiring Companies:** [Top Companies] are leading in hiring data analysts.
-- **Soft Skill Trends:** Communication, problem-solving, and adaptability are among the most frequently requested skills.
+- **Location Insights:** The highest concentration of job postings in the U.S. are in New York, California, and Washington.
+- **Hiring Companies:** Meta is leading in hiring data analysts by a large margin.
+- **Soft Skill Trends:** Communication and leadership are among the most frequently requested skills.
 
 ## 🚀 Conclusion
 Based on this analysis, data analytics continues to be an in-demand profession, particularly in major tech hubs and certain industries. However, focusing on soft skills alongside technical expertise is crucial for staying competitive.
-
-## 🗂 How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
