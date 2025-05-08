@@ -15,9 +15,13 @@ This project explores job postings for data analyst roles to assess whether data
   - Jupyter Notebook
 
 ## 📈 Key Findings
+![Job Location Visualization](data_location.png)
 - **Location Insights:** The highest concentration of job postings in the U.S. are in New York, California, and Washington.
-- ![Job Location Visualization](data_location.png)
+
+![Job Company Visualization](data_company.png)
 - **Hiring Companies:** Meta is leading in hiring data analysts by a large margin.
+
+![Job Company Visualization](data_soft.png)
 - **Soft Skill Trends:** Communication and leadership are among the most frequently requested skills.
 
 ## 🚀 Conclusion
