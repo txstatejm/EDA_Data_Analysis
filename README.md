@@ -26,3 +26,9 @@ This project explores job postings for data analyst roles to assess whether data
 
 ## 🚀 Conclusion
 Based on this analysis, data analytics continues to be an in-demand profession, particularly in major tech hubs and certain industries. However, focusing on soft skills alongside technical expertise is crucial for staying competitive.
+
+## Project Review
+Using Pandas, Matplotlib, and Seaborn is a quick way to clean, analyze, and visualize data for EDA, but I do see the appeal in using Tableau or PowerBI for more engaging visualizations.
+I only finished the Python, Pandas, and Numpy tutorials this week, so I am still leaning on documentation and Copilot for a lot of help.
+The code used to generate the first 2 visuals is fairly straight forward, but the third one utilizes counters which are more complicated. 
+I will get better.
